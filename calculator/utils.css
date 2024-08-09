@@ -1,0 +1,18 @@
+.text-center{
+    text-align: center;
+    color: white;
+    font-size: larg;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
